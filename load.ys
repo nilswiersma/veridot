@@ -1,0 +1,8 @@
+read_verilog submod/picorv32/picorv32.v
+read_verilog submod/picorv32/scripts/yosys/synth_gates.v
+
+hierarchy -top top
+
+proc ; flatten
+
+shell
