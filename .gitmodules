@@ -1,6 +1,6 @@
 [submodule "submod/picorv32"]
 	path = submod/picorv32
 	url = https://github.com/cliffordwolf/picorv32
-[submodule ".\\submod\\xdot"]
-	path = .\\submod\\xdot
+[submodule "submod/xdot"]
+	path = submod/xdot
 	url = https://github.com/jrfonseca/xdot.py
